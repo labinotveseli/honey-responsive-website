@@ -11,8 +11,11 @@ HoneyShop is a responsive website designed for use in the sale of honey. This we
 - <b>Figma</b>
 
 <h2>Website walk-through:</h2>
-<b>You can try the Demo of this website here: </b>
-<br/>
+
+<b>You can try the Demo of this website here:</b> 
+  - [Honey Shop - Responsive Website](https://honeyshopwebsite.netlify.app)
+
+<hr>
 <p align="center">
 <b>A responsive website with various sections like About, Products, Types, Blogs and more:</b>
 <hr>
