@@ -1,4 +1,4 @@
-# Honey Shop - A responsive website
+# Honey Shop - Responsive website
 
 <h2>Description:</h2>
 HoneyShop is a responsive website designed for use in the sale of honey. This website is responsive and responds to modern requirements, making it an attractive and attractive design for a store or business selling honey that can be used as a company website..
