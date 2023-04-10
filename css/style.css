@@ -551,43 +551,6 @@ section {
     color: var(--main-color);
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /* media queries */
 @media (max-width:991px) {
 
@@ -649,7 +612,6 @@ section {
         font-size: 1.5rem;
     }
 }
-
 
 @media (max-width:450px) {
 
